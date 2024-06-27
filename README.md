@@ -1,1 +1,1 @@
-# heart_riski_prediction
+# heart_risk_prediction
